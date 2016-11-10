@@ -12,7 +12,7 @@
         </trans-unit>
         <trans-unit id="BadgeBattleTrainingWon" translate="yes" xml:space="preserve">
           <source>Ace Trainer</source>
-          <target state="final">Entre. guay</target>
+          <target state="final">Entre guay</target>
         </trans-unit>
         <trans-unit id="BadgeBigMagikarp" translate="yes" xml:space="preserve">
           <source>Fisherman</source>
@@ -539,19 +539,19 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="CannotTransferFavorite" translate="yes" xml:space="preserve">
           <source>Cannot transfer a favorite Pokémon!</source>
-          <target state="new">Cannot transfer a favorite Pokémon!</target>
+          <target state="new">No puedes transferir un Pokemon favorito!</target>
         </trans-unit>
         <trans-unit id="CantUseBerryText" translate="yes" xml:space="preserve">
           <source>You already used a Berry.</source>
-          <target state="new">You already used a Berry.</target>
+          <target state="new">Ya has usado una Baya.</target>
         </trans-unit>
         <trans-unit id="LureDetailsTextEmpty" translate="yes" xml:space="preserve">
           <source>Can have a PokéStop Module installed</source>
-          <target state="new">Can have a PokéStop Module installed</target>
+          <target state="new">Se puede instalar un modulo.</target>
         </trans-unit>
         <trans-unit id="LureTitleTextEmpty" translate="yes" xml:space="preserve">
           <source>Empty module slot</source>
-          <target state="new">Empty module slot</target>
+          <target state="new">Ranura de modulo vacia.</target>
         </trans-unit>
         <trans-unit id="IncubatorRemainingUsesText" translate="yes" xml:space="preserve">
           <source>{0} use(s) left</source>
@@ -573,7 +573,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
       <group id="POKEMONGO-UWP/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
         <trans-unit id="CooldownTextBlock.Text" translate="yes" xml:space="preserve">
           <source>You have to wait some time</source>
-          <target state="translated">Tendrás que esperar un poco</target>
+          <target state="translated">Tendrás que esperar un poco.</target>
         </trans-unit>
         <trans-unit id="GoogleLoginTextBlock.Text" translate="yes" xml:space="preserve">
           <source>GOOGLE</source>
@@ -765,7 +765,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="PokedexSeen.Text" translate="yes" xml:space="preserve">
           <source>Seen:</source>
-          <target state="new">Seen:</target>
+          <target state="new">Visto:</target>
         </trans-unit>
         <trans-unit id="PokedexText.Text" translate="yes" xml:space="preserve">
           <source>POKÉDEX</source>
@@ -778,11 +778,11 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="PokedexViewSeen.Text" translate="yes" xml:space="preserve">
           <source>Seen</source>
-          <target state="new">Seen</target>
+          <target state="new">Visto</target>
         </trans-unit>
         <trans-unit id="TimesTextBlock.Text" translate="yes" xml:space="preserve">
           <source>times</source>
-          <target state="new">times</target>
+          <target state="new">veces</target>
         </trans-unit>
         <trans-unit id="EggDetailButtonTextBlock.Text" translate="yes" xml:space="preserve">
           <source>START INCUBATION</source>
@@ -806,7 +806,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="SettingsCompassEnabledTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Use compass</source>
-          <target state="new">Use compass</target>
+          <target state="new">Usar compás</target>
         </trans-unit>
         <trans-unit id="SettingsLiveTileTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Live Tile Mode</source>
@@ -823,11 +823,11 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="AwardedExperienceTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Experience</source>
-          <target state="new">Experience</target>
+          <target state="new">Experiencia</target>
         </trans-unit>
         <trans-unit id="EggsHeader.Title" translate="yes" xml:space="preserve">
           <source>EGGS</source>
-          <target state="new">EGGS</target>
+          <target state="new">HUEVOS</target>
         </trans-unit>
         <trans-unit id="PokemonHeader.Title" translate="yes" xml:space="preserve">
           <source>POKÉMON</source>
@@ -835,23 +835,23 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="FortAlreadyHasModifierTextBlock.Text" translate="yes" xml:space="preserve">
           <source>This pokestop already has a lure module installed</source>
-          <target state="new">This pokestop already has a lure module installed</target>
+          <target state="new">Esta pokeparada ya tiene un modulo cebo instalado.</target>
         </trans-unit>
         <trans-unit id="NoItemInInventoryTextBlock.Text" translate="yes" xml:space="preserve">
           <source>There is no troy disc in your inventory</source>
-          <target state="new">There is no troy disc in your inventory</target>
+          <target state="new">No hay modulos cebo en tu inventario.</target>
         </trans-unit>
         <trans-unit id="TooFarAwayTextBlock.Text" translate="yes" xml:space="preserve">
           <source>This pokestop is too far away</source>
-          <target state="new">This pokestop is too far away</target>
+          <target state="new">Esta PokeParada esta muy lejos!</target>
         </trans-unit>
         <trans-unit id="AddModifierSuccessTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Successfully added lure module</source>
-          <target state="new">Successfully added lure module</target>
+          <target state="new">Modulo cebo agregado correctamente.</target>
         </trans-unit>
         <trans-unit id="EggDetailIncubatingTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Walk to hatch this Egg.</source>
-          <target state="new">Walk to hatch this Egg.</target>
+          <target state="new">Camina para eclosionar este huevo.</target>
         </trans-unit>
       </group>
     </body>
@@ -1011,7 +1011,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="ItemTroyDisk" translate="yes" xml:space="preserve">
           <source>Lure Module</source>
-          <target state="needs-review-translation">Disco de troya</target>
+          <target state="needs-review-translation">Modulo cebo</target>
         </trans-unit>
         <trans-unit id="ItemUltraBall" translate="yes" xml:space="preserve">
           <source>Ultra Ball</source>
